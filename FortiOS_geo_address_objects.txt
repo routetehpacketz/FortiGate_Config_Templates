@@ -3,1257 +3,1257 @@
 # of the "geography" type for all of the countries
 # available in FortiOS
 config firewall address
-    edit AD
+    edit Geo_AD
         set type geo
         set country AD
         set comment "Andorra"
     next
-    edit AE
+    edit Geo_AE
         set type geo
         set country AE
         set comment "United Arab Emirates"
     next
-    edit AF
+    edit Geo_AF
         set type geo
         set country AF
         set comment "Afghanistan"
     next
-    edit AG
+    edit Geo_AG
         set type geo
         set country AG
         set comment "Antigua and Barbuda"
     next
-    edit AI
+    edit Geo_AI
         set type geo
         set country AI
         set comment "Anguilla"
     next
-    edit AL
+    edit Geo_AL
         set type geo
         set country AL
         set comment "Albania"
     next
-    edit AM
+    edit Geo_AM
         set type geo
         set country AM
         set comment "Armenia"
     next
-    edit AN
+    edit Geo_AN
         set type geo
         set country AN
         set comment "Netherlands Antilles"
     next
-    edit AO
+    edit Geo_AO
         set type geo
         set country AO
         set comment "Angola"
     next
-    edit AQ
+    edit Geo_AQ
         set type geo
         set country AQ
         set comment "Antarctica"
     next
-    edit AR
+    edit Geo_AR
         set type geo
         set country AR
         set comment "Argentina"
     next
-    edit AS
+    edit Geo_AS
         set type geo
         set country AS
         set comment "American Samoa"
     next
-    edit AT
+    edit Geo_AT
         set type geo
         set country AT
         set comment "Austria"
     next
-    edit AU
+    edit Geo_AU
         set type geo
         set country AU
         set comment "Australia"
     next
-    edit AW
+    edit Geo_AW
         set type geo
         set country AW
         set comment "Aruba"
     next
-    edit AX
+    edit Geo_AX
         set type geo
         set country AX
         set comment "Aland Islands"
     next
-    edit AZ
+    edit Geo_AZ
         set type geo
         set country AZ
         set comment "Azerbaijan"
     next
-    edit BA
+    edit Geo_BA
         set type geo
         set country BA
         set comment "Bosnia and Herzegovina"
     next
-    edit BB
+    edit Geo_BB
         set type geo
         set country BB
         set comment "Barbados"
     next
-    edit BD
+    edit Geo_BD
         set type geo
         set country BD
         set comment "Bangladesh"
     next
-    edit BE
+    edit Geo_BE
         set type geo
         set country BE
         set comment "Belgium"
     next
-    edit BF
+    edit Geo_BF
         set type geo
         set country BF
         set comment "Burkina Faso"
     next
-    edit BG
+    edit Geo_BG
         set type geo
         set country BG
         set comment "Bulgaria"
     next
-    edit BH
+    edit Geo_BH
         set type geo
         set country BH
         set comment "Bahrain"
     next
-    edit BI
+    edit Geo_BI
         set type geo
         set country BI
         set comment "Burundi"
     next
-    edit BJ
+    edit Geo_BJ
         set type geo
         set country BJ
         set comment "Benin"
     next
-    edit BL
+    edit Geo_BL
         set type geo
         set country BL
         set comment "Saint Bartelemey"
     next
-    edit BM
+    edit Geo_BM
         set type geo
         set country BM
         set comment "Bermuda"
     next
-    edit BN
+    edit Geo_BN
         set type geo
         set country BN
         set comment "Brunei Darussalam"
     next
-    edit BO
+    edit Geo_BO
         set type geo
         set country BO
         set comment "Bolivia"
     next
-    edit BQ
+    edit Geo_BQ
         set type geo
         set country BQ
         set comment "Bonaire, Saint Eustatius and Saba"
     next
-    edit BR
+    edit Geo_BR
         set type geo
         set country BR
         set comment "Brazil"
     next
-    edit BS
+    edit Geo_BS
         set type geo
         set country BS
         set comment "Bahamas"
     next
-    edit BT
+    edit Geo_BT
         set type geo
         set country BT
         set comment "Bhutan"
     next
-    edit BV
+    edit Geo_BV
         set type geo
         set country BV
         set comment "Bouvet Island"
     next
-    edit BW
+    edit Geo_BW
         set type geo
         set country BW
         set comment "Botswana"
     next
-    edit BY
+    edit Geo_BY
         set type geo
         set country BY
         set comment "Belarus"
     next
-    edit BZ
+    edit Geo_BZ
         set type geo
         set country BZ
         set comment "Belize"
     next
-    edit CA
+    edit Geo_CA
         set type geo
         set country CA
         set comment "Canada"
     next
-    edit CC
+    edit Geo_CC
         set type geo
         set country CC
         set comment "Cocos (Keeling) Islands"
     next
-    edit CD
+    edit Geo_CD
         set type geo
         set country CD
         set comment "Congo, The Democratic Republic of the"
     next
-    edit CF
+    edit Geo_CF
         set type geo
         set country CF
         set comment "Central African Republic"
     next
-    edit CG
+    edit Geo_CG
         set type geo
         set country CG
         set comment "Congo"
     next
-    edit CH
+    edit Geo_CH
         set type geo
         set country CH
         set comment "Switzerland"
     next
-    edit CI
+    edit Geo_CI
         set type geo
         set country CI
         set comment "Cote d'Ivoire"
     next
-    edit CK
+    edit Geo_CK
         set type geo
         set country CK
         set comment "Cook Islands"
     next
-    edit CL
+    edit Geo_CL
         set type geo
         set country CL
         set comment "Chile"
     next
-    edit CM
+    edit Geo_CM
         set type geo
         set country CM
         set comment "Cameroon"
     next
-    edit CN
+    edit Geo_CN
         set type geo
         set country CN
         set comment "China"
     next
-    edit CO
+    edit Geo_CO
         set type geo
         set country CO
         set comment "Colombia"
     next
-    edit CR
+    edit Geo_CR
         set type geo
         set country CR
         set comment "Costa Rica"
     next
-    edit CU
+    edit Geo_CU
         set type geo
         set country CU
         set comment "Cuba"
     next
-    edit CV
+    edit Geo_CV
         set type geo
         set country CV
         set comment "Cape Verde"
     next
-    edit CW
+    edit Geo_CW
         set type geo
         set country CW
         set comment "Curacao"
     next
-    edit CX
+    edit Geo_CX
         set type geo
         set country CX
         set comment "Christmas Island"
     next
-    edit CY
+    edit Geo_CY
         set type geo
         set country CY
         set comment "Cyprus"
     next
-    edit CZ
+    edit Geo_CZ
         set type geo
         set country CZ
         set comment "Czech Republic"
     next
-    edit DE
+    edit Geo_DE
         set type geo
         set country DE
         set comment "Germany"
     next
-    edit DJ
+    edit Geo_DJ
         set type geo
         set country DJ
         set comment "Djibouti"
     next
-    edit DK
+    edit Geo_DK
         set type geo
         set country DK
         set comment "Denmark"
     next
-    edit DM
+    edit Geo_DM
         set type geo
         set country DM
         set comment "Dominica"
     next
-    edit DO
+    edit Geo_DO
         set type geo
         set country DO
         set comment "Dominican Republic"
     next
-    edit DZ
+    edit Geo_DZ
         set type geo
         set country DZ
         set comment "Algeria"
     next
-    edit EC
+    edit Geo_EC
         set type geo
         set country EC
         set comment "Ecuador"
     next
-    edit EE
+    edit Geo_EE
         set type geo
         set country EE
         set comment "Estonia"
     next
-    edit EG
+    edit Geo_EG
         set type geo
         set country EG
         set comment "Egypt"
     next
-    edit EH
+    edit Geo_EH
         set type geo
         set country EH
         set comment "Western Sahara"
     next
-    edit ER
+    edit Geo_ER
         set type geo
         set country ER
         set comment "Eritrea"
     next
-    edit ES
+    edit Geo_ES
         set type geo
         set country ES
         set comment "Spain"
     next
-    edit ET
+    edit Geo_ET
         set type geo
         set country ET
         set comment "Ethiopia"
     next
-    edit FI
+    edit Geo_FI
         set type geo
         set country FI
         set comment "Finland"
     next
-    edit FJ
+    edit Geo_FJ
         set type geo
         set country FJ
         set comment "Fiji"
     next
-    edit FK
+    edit Geo_FK
         set type geo
         set country FK
         set comment "Falkland Islands (Malvinas)"
     next
-    edit FM
+    edit Geo_FM
         set type geo
         set country FM
         set comment "Micronesia, Federated States of"
     next
-    edit FO
+    edit Geo_FO
         set type geo
         set country FO
         set comment "Faroe Islands"
     next
-    edit FR
+    edit Geo_FR
         set type geo
         set country FR
         set comment "France"
     next
-    edit GA
+    edit Geo_GA
         set type geo
         set country GA
         set comment "Gabon"
     next
-    edit GB
+    edit Geo_GB
         set type geo
         set country GB
         set comment "United Kingdom"
     next
-    edit GD
+    edit Geo_GD
         set type geo
         set country GD
         set comment "Grenada"
     next
-    edit GE
+    edit Geo_GE
         set type geo
         set country GE
         set comment "Georgia"
     next
-    edit GF
+    edit Geo_GF
         set type geo
         set country GF
         set comment "French Guiana"
     next
-    edit GG
+    edit Geo_GG
         set type geo
         set country GG
         set comment "Guernsey"
     next
-    edit GH
+    edit Geo_GH
         set type geo
         set country GH
         set comment "Ghana"
     next
-    edit GI
+    edit Geo_GI
         set type geo
         set country GI
         set comment "Gibraltar"
     next
-    edit GL
+    edit Geo_GL
         set type geo
         set country GL
         set comment "Greenland"
     next
-    edit GM
+    edit Geo_GM
         set type geo
         set country GM
         set comment "Gambia"
     next
-    edit GN
+    edit Geo_GN
         set type geo
         set country GN
         set comment "Guinea"
     next
-    edit GP
+    edit Geo_GP
         set type geo
         set country GP
         set comment "Guadeloupe"
     next
-    edit GQ
+    edit Geo_GQ
         set type geo
         set country GQ
         set comment "Equatorial Guinea"
     next
-    edit GR
+    edit Geo_GR
         set type geo
         set country GR
         set comment "Greece"
     next
-    edit GS
+    edit Geo_GS
         set type geo
         set country GS
         set comment "South Georgia and the South Sandwich Islands"
     next
-    edit GT
+    edit Geo_GT
         set type geo
         set country GT
         set comment "Guatemala"
     next
-    edit GU
+    edit Geo_GU
         set type geo
         set country GU
         set comment "Guam"
     next
-    edit GW
+    edit Geo_GW
         set type geo
         set country GW
         set comment "Guinea-Bissau"
     next
-    edit GY
+    edit Geo_GY
         set type geo
         set country GY
         set comment "Guyana"
     next
-    edit HK
+    edit Geo_HK
         set type geo
         set country HK
         set comment "Hong Kong"
     next
-    edit HM
+    edit Geo_HM
         set type geo
         set country HM
         set comment "Heard Island and McDonald Islands"
     next
-    edit HN
+    edit Geo_HN
         set type geo
         set country HN
         set comment "Honduras"
     next
-    edit HR
+    edit Geo_HR
         set type geo
         set country HR
         set comment "Croatia"
     next
-    edit HT
+    edit Geo_HT
         set type geo
         set country HT
         set comment "Haiti"
     next
-    edit HU
+    edit Geo_HU
         set type geo
         set country HU
         set comment "Hungary"
     next
-    edit ID
+    edit Geo_ID
         set type geo
         set country ID
         set comment "Indonesia"
     next
-    edit IE
+    edit Geo_IE
         set type geo
         set country IE
         set comment "Ireland"
     next
-    edit IL
+    edit Geo_IL
         set type geo
         set country IL
         set comment "Israel"
     next
-    edit IM
+    edit Geo_IM
         set type geo
         set country IM
         set comment "Isle of Man"
     next
-    edit IN
+    edit Geo_IN
         set type geo
         set country IN
         set comment "India"
     next
-    edit IO
+    edit Geo_IO
         set type geo
         set country IO
         set comment "British Indian Ocean Territory"
     next
-    edit IQ
+    edit Geo_IQ
         set type geo
         set country IQ
         set comment "Iraq"
     next
-    edit IR
+    edit Geo_IR
         set type geo
         set country IR
         set comment "Iran, Islamic Republic of"
     next
-    edit IS
+    edit Geo_IS
         set type geo
         set country IS
         set comment "Iceland"
     next
-    edit IT
+    edit Geo_IT
         set type geo
         set country IT
         set comment "Italy"
     next
-    edit JE
+    edit Geo_JE
         set type geo
         set country JE
         set comment "Jersey"
     next
-    edit JM
+    edit Geo_JM
         set type geo
         set country JM
         set comment "Jamaica"
     next
-    edit JO
+    edit Geo_JO
         set type geo
         set country JO
         set comment "Jordan"
     next
-    edit JP
+    edit Geo_JP
         set type geo
         set country JP
         set comment "Japan"
     next
-    edit KE
+    edit Geo_KE
         set type geo
         set country KE
         set comment "Kenya"
     next
-    edit KG
+    edit Geo_KG
         set type geo
         set country KG
         set comment "Kyrgyzstan"
     next
-    edit KH
+    edit Geo_KH
         set type geo
         set country KH
         set comment "Cambodia"
     next
-    edit KI
+    edit Geo_KI
         set type geo
         set country KI
         set comment "Kiribati"
     next
-    edit KM
+    edit Geo_KM
         set type geo
         set country KM
         set comment "Comoros"
     next
-    edit KN
+    edit Geo_KN
         set type geo
         set country KN
         set comment "Saint Kitts and Nevis"
     next
-    edit KP
+    edit Geo_KP
         set type geo
         set country KP
         set comment "Korea, Democratic People's Republic of"
     next
-    edit KR
+    edit Geo_KR
         set type geo
         set country KR
         set comment "Korea, Republic of"
     next
-    edit KW
+    edit Geo_KW
         set type geo
         set country KW
         set comment "Kuwait"
     next
-    edit KY
+    edit Geo_KY
         set type geo
         set country KY
         set comment "Cayman Islands"
     next
-    edit KZ
+    edit Geo_KZ
         set type geo
         set country KZ
         set comment "Kazakhstan"
     next
-    edit LA
+    edit Geo_LA
         set type geo
         set country LA
         set comment "Lao People's Democratic Republic"
     next
-    edit LB
+    edit Geo_LB
         set type geo
         set country LB
         set comment "Lebanon"
     next
-    edit LC
+    edit Geo_LC
         set type geo
         set country LC
         set comment "Saint Lucia"
     next
-    edit LI
+    edit Geo_LI
         set type geo
         set country LI
         set comment "Liechtenstein"
     next
-    edit LK
+    edit Geo_LK
         set type geo
         set country LK
         set comment "Sri Lanka"
     next
-    edit LR
+    edit Geo_LR
         set type geo
         set country LR
         set comment "Liberia"
     next
-    edit LS
+    edit Geo_LS
         set type geo
         set country LS
         set comment "Lesotho"
     next
-    edit LT
+    edit Geo_LT
         set type geo
         set country LT
         set comment "Lithuania"
     next
-    edit LU
+    edit Geo_LU
         set type geo
         set country LU
         set comment "Luxembourg"
     next
-    edit LV
+    edit Geo_LV
         set type geo
         set country LV
         set comment "Latvia"
     next
-    edit LY
+    edit Geo_LY
         set type geo
         set country LY
         set comment "Libyan Arab Jamahiriya"
     next
-    edit MA
+    edit Geo_MA
         set type geo
         set country MA
         set comment "Morocco"
     next
-    edit MC
+    edit Geo_MC
         set type geo
         set country MC
         set comment "Monaco"
     next
-    edit MD
+    edit Geo_MD
         set type geo
         set country MD
         set comment "Moldova, Republic of"
     next
-    edit ME
+    edit Geo_ME
         set type geo
         set country ME
         set comment "Montenegro"
     next
-    edit MF
+    edit Geo_MF
         set type geo
         set country MF
         set comment "Saint Martin"
     next
-    edit MG
+    edit Geo_MG
         set type geo
         set country MG
         set comment "Madagascar"
     next
-    edit MH
+    edit Geo_MH
         set type geo
         set country MH
         set comment "Marshall Islands"
     next
-    edit MK
+    edit Geo_MK
         set type geo
         set country MK
         set comment "Macedonia"
     next
-    edit ML
+    edit Geo_ML
         set type geo
         set country ML
         set comment "Mali"
     next
-    edit MM
+    edit Geo_MM
         set type geo
         set country MM
         set comment "Myanmar"
     next
-    edit MN
+    edit Geo_MN
         set type geo
         set country MN
         set comment "Mongolia"
     next
-    edit MO
+    edit Geo_MO
         set type geo
         set country MO
         set comment "Macao"
     next
-    edit MP
+    edit Geo_MP
         set type geo
         set country MP
         set comment "Northern Mariana Islands"
     next
-    edit MQ
+    edit Geo_MQ
         set type geo
         set country MQ
         set comment "Martinique"
     next
-    edit MR
+    edit Geo_MR
         set type geo
         set country MR
         set comment "Mauritania"
     next
-    edit MS
+    edit Geo_MS
         set type geo
         set country MS
         set comment "Montserrat"
     next
-    edit MT
+    edit Geo_MT
         set type geo
         set country MT
         set comment "Malta"
     next
-    edit MU
+    edit Geo_MU
         set type geo
         set country MU
         set comment "Mauritius"
     next
-    edit MV
+    edit Geo_MV
         set type geo
         set country MV
         set comment "Maldives"
     next
-    edit MW
+    edit Geo_MW
         set type geo
         set country MW
         set comment "Malawi"
     next
-    edit MX
+    edit Geo_MX
         set type geo
         set country MX
         set comment "Mexico"
     next
-    edit MY
+    edit Geo_MY
         set type geo
         set country MY
         set comment "Malaysia"
     next
-    edit MZ
+    edit Geo_MZ
         set type geo
         set country MZ
         set comment "Mozambique"
     next
-    edit NA
+    edit Geo_NA
         set type geo
         set country NA
         set comment "Namibia"
     next
-    edit NC
+    edit Geo_NC
         set type geo
         set country NC
         set comment "New Caledonia"
     next
-    edit NE
+    edit Geo_NE
         set type geo
         set country NE
         set comment "Niger"
     next
-    edit NF
+    edit Geo_NF
         set type geo
         set country NF
         set comment "Norfolk Island"
     next
-    edit NG
+    edit Geo_NG
         set type geo
         set country NG
         set comment "Nigeria"
     next
-    edit NI
+    edit Geo_NI
         set type geo
         set country NI
         set comment "Nicaragua"
     next
-    edit NL
+    edit Geo_NL
         set type geo
         set country NL
         set comment "Netherlands"
     next
-    edit NO
+    edit Geo_NO
         set type geo
         set country NO
         set comment "Norway"
     next
-    edit NP
+    edit Geo_NP
         set type geo
         set country NP
         set comment "Nepal"
     next
-    edit NR
+    edit Geo_NR
         set type geo
         set country NR
         set comment "Nauru"
     next
-    edit NU
+    edit Geo_NU
         set type geo
         set country NU
         set comment "Niue"
     next
-    edit NZ
+    edit Geo_NZ
         set type geo
         set country NZ
         set comment "New Zealand"
     next
-    edit OM
+    edit Geo_OM
         set type geo
         set country OM
         set comment "Oman"
     next
-    edit PA
+    edit Geo_PA
         set type geo
         set country PA
         set comment "Panama"
     next
-    edit PE
+    edit Geo_PE
         set type geo
         set country PE
         set comment "Peru"
     next
-    edit PF
+    edit Geo_PF
         set type geo
         set country PF
         set comment "French Polynesia"
     next
-    edit PG
+    edit Geo_PG
         set type geo
         set country PG
         set comment "Papua New Guinea"
     next
-    edit PH
+    edit Geo_PH
         set type geo
         set country PH
         set comment "Philippines"
     next
-    edit PK
+    edit Geo_PK
         set type geo
         set country PK
         set comment "Pakistan"
     next
-    edit PL
+    edit Geo_PL
         set type geo
         set country PL
         set comment "Poland"
     next
-    edit PM
+    edit Geo_PM
         set type geo
         set country PM
         set comment "Saint Pierre and Miquelon"
     next
-    edit PN
+    edit Geo_PN
         set type geo
         set country PN
         set comment "Pitcairn"
     next
-    edit PR
+    edit Geo_PR
         set type geo
         set country PR
         set comment "Puerto Rico"
     next
-    edit PS
+    edit Geo_PS
         set type geo
         set country PS
         set comment "Palestinian Territory"
     next
-    edit PT
+    edit Geo_PT
         set type geo
         set country PT
         set comment "Portugal"
     next
-    edit PW
+    edit Geo_PW
         set type geo
         set country PW
         set comment "Palau"
     next
-    edit PY
+    edit Geo_PY
         set type geo
         set country PY
         set comment "Paraguay"
     next
-    edit QA
+    edit Geo_QA
         set type geo
         set country QA
         set comment "Qatar"
     next
-    edit RE
+    edit Geo_RE
         set type geo
         set country RE
         set comment "Reunion"
     next
-    edit RO
+    edit Geo_RO
         set type geo
         set country RO
         set comment "Romania"
     next
-    edit RS
+    edit Geo_RS
         set type geo
         set country RS
         set comment "Serbia"
     next
-    edit RU
+    edit Geo_RU
         set type geo
         set country RU
         set comment "Russian Federation"
     next
-    edit RW
+    edit Geo_RW
         set type geo
         set country RW
         set comment "Rwanda"
     next
-    edit SA
+    edit Geo_SA
         set type geo
         set country SA
         set comment "Saudi Arabia"
     next
-    edit SB
+    edit Geo_SB
         set type geo
         set country SB
         set comment "Solomon Islands"
     next
-    edit SC
+    edit Geo_SC
         set type geo
         set country SC
         set comment "Seychelles"
     next
-    edit SD
+    edit Geo_SD
         set type geo
         set country SD
         set comment "Sudan"
     next
-    edit SE
+    edit Geo_SE
         set type geo
         set country SE
         set comment "Sweden"
     next
-    edit SG
+    edit Geo_SG
         set type geo
         set country SG
         set comment "Singapore"
     next
-    edit SH
+    edit Geo_SH
         set type geo
         set country SH
         set comment "Saint Helena"
     next
-    edit SI
+    edit Geo_SI
         set type geo
         set country SI
         set comment "Slovenia"
     next
-    edit SJ
+    edit Geo_SJ
         set type geo
         set country SJ
         set comment "Svalbard and Jan Mayen"
     next
-    edit SK
+    edit Geo_SK
         set type geo
         set country SK
         set comment "Slovakia"
     next
-    edit SL
+    edit Geo_SL
         set type geo
         set country SL
         set comment "Sierra Leone"
     next
-    edit SM
+    edit Geo_SM
         set type geo
         set country SM
         set comment "San Marino"
     next
-    edit SN
+    edit Geo_SN
         set type geo
         set country SN
         set comment "Senegal"
     next
-    edit SO
+    edit Geo_SO
         set type geo
         set country SO
         set comment "Somalia"
     next
-    edit SR
+    edit Geo_SR
         set type geo
         set country SR
         set comment "Suriname"
     next
-    edit SS
+    edit Geo_SS
         set type geo
         set country SS
         set comment "South Sudan"
     next
-    edit ST
+    edit Geo_ST
         set type geo
         set country ST
         set comment "Sao Tome and Principe"
     next
-    edit SV
+    edit Geo_SV
         set type geo
         set country SV
         set comment "El Salvador"
     next
-    edit SX
+    edit Geo_SX
         set type geo
         set country SX
         set comment "Sint Maarten"
     next
-    edit SY
+    edit Geo_SY
         set type geo
         set country SY
         set comment "Syrian Arab Republic"
     next
-    edit SZ
+    edit Geo_SZ
         set type geo
         set country SZ
         set comment "Swaziland"
     next
-    edit TC
+    edit Geo_TC
         set type geo
         set country TC
         set comment "Turks and Caicos Islands"
     next
-    edit TD
+    edit Geo_TD
         set type geo
         set country TD
         set comment "Chad"
     next
-    edit TF
+    edit Geo_TF
         set type geo
         set country TF
         set comment "French Southern Territories"
     next
-    edit TG
+    edit Geo_TG
         set type geo
         set country TG
         set comment "Togo"
     next
-    edit TH
+    edit Geo_TH
         set type geo
         set country TH
         set comment "Thailand"
     next
-    edit TJ
+    edit Geo_TJ
         set type geo
         set country TJ
         set comment "Tajikistan"
     next
-    edit TK
+    edit Geo_TK
         set type geo
         set country TK
         set comment "Tokelau"
     next
-    edit TL
+    edit Geo_TL
         set type geo
         set country TL
         set comment "Timor-Leste"
     next
-    edit TM
+    edit Geo_TM
         set type geo
         set country TM
         set comment "Turkmenistan"
     next
-    edit TN
+    edit Geo_TN
         set type geo
         set country TN
         set comment "Tunisia"
     next
-    edit TO
+    edit Geo_TO
         set type geo
         set country TO
         set comment "Tonga"
     next
-    edit TR
+    edit Geo_TR
         set type geo
         set country TR
         set comment "Turkey"
     next
-    edit TT
+    edit Geo_TT
         set type geo
         set country TT
         set comment "Trinidad and Tobago"
     next
-    edit TV
+    edit Geo_TV
         set type geo
         set country TV
         set comment "Tuvalu"
     next
-    edit TW
+    edit Geo_TW
         set type geo
         set country TW
         set comment "Taiwan"
     next
-    edit TZ
+    edit Geo_TZ
         set type geo
         set country TZ
         set comment "Tanzania, United Republic of"
     next
-    edit UA
+    edit Geo_UA
         set type geo
         set country UA
         set comment "Ukraine"
     next
-    edit UG
+    edit Geo_UG
         set type geo
         set country UG
         set comment "Uganda"
     next
-    edit UM
+    edit Geo_UM
         set type geo
         set country UM
         set comment "United States Minor Outlying Islands"
     next
-    edit US
+    edit Geo_US
         set type geo
         set country US
         set comment "United States"
     next
-    edit UY
+    edit Geo_UY
         set type geo
         set country UY
         set comment "Uruguay"
     next
-    edit UZ
+    edit Geo_UZ
         set type geo
         set country UZ
         set comment "Uzbekistan"
     next
-    edit VA
+    edit Geo_VA
         set type geo
         set country VA
         set comment "Holy See (Vatican City State)"
     next
-    edit VC
+    edit Geo_VC
         set type geo
         set country VC
         set comment "Saint Vincent and the Grenadines"
     next
-    edit VE
+    edit Geo_VE
         set type geo
         set country VE
         set comment "Venezuela"
     next
-    edit VG
+    edit Geo_VG
         set type geo
         set country VG
         set comment "Virgin Islands, British"
     next
-    edit VI
+    edit Geo_VI
         set type geo
         set country VI
         set comment "Virgin Islands, U.S."
     next
-    edit VN
+    edit Geo_VN
         set type geo
         set country VN
         set comment "Vietnam"
     next
-    edit VU
+    edit Geo_VU
         set type geo
         set country VU
         set comment "Vanuatu"
     next
-    edit WF
+    edit Geo_WF
         set type geo
         set country WF
         set comment "Wallis and Futuna"
     next
-    edit WS
+    edit Geo_WS
         set type geo
         set country WS
         set comment "Samoa"
     next
-    edit XK
+    edit Geo_XK
         set type geo
         set country XK
         set comment "Kosovo"
     next
-    edit YE
+    edit Geo_YE
         set type geo
         set country YE
         set comment "Yemen"
     next
-    edit YT
+    edit Geo_YT
         set type geo
         set country YT
         set comment "Mayotte"
     next
-    edit ZA
+    edit Geo_ZA
         set type geo
         set country ZA
         set comment "South Africa"
     next
-    edit ZM
+    edit Geo_ZM
         set type geo
         set country ZM
         set comment "Zambia"
     next
-    edit ZW
+    edit Geo_ZW
         set type geo
         set country ZW
         set comment "Zimbabwe"
