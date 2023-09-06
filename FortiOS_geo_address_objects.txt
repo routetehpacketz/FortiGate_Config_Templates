@@ -1,0 +1,1261 @@
+# This is a copy/paste config template
+# that will create address objects
+# of the "geography" type for all of the countries
+# available in FortiOS
+config firewall address
+    edit AD
+        set type geo
+        set country AD
+        set comment Andorra
+    next
+    edit AE
+        set type geo
+        set country AE
+        set comment United Arab Emirates
+    next
+    edit AF
+        set type geo
+        set country AF
+        set comment Afghanistan
+    next
+    edit AG
+        set type geo
+        set country AG
+        set comment Antigua and Barbuda
+    next
+    edit AI
+        set type geo
+        set country AI
+        set comment Anguilla
+    next
+    edit AL
+        set type geo
+        set country AL
+        set comment Albania
+    next
+    edit AM
+        set type geo
+        set country AM
+        set comment Armenia
+    next
+    edit AN
+        set type geo
+        set country AN
+        set comment Netherlands Antilles
+    next
+    edit AO
+        set type geo
+        set country AO
+        set comment Angola
+    next
+    edit AQ
+        set type geo
+        set country AQ
+        set comment Antarctica
+    next
+    edit AR
+        set type geo
+        set country AR
+        set comment Argentina
+    next
+    edit AS
+        set type geo
+        set country AS
+        set comment American Samoa
+    next
+    edit AT
+        set type geo
+        set country AT
+        set comment Austria
+    next
+    edit AU
+        set type geo
+        set country AU
+        set comment Australia
+    next
+    edit AW
+        set type geo
+        set country AW
+        set comment Aruba
+    next
+    edit AX
+        set type geo
+        set country AX
+        set comment Aland Islands
+    next
+    edit AZ
+        set type geo
+        set country AZ
+        set comment Azerbaijan
+    next
+    edit BA
+        set type geo
+        set country BA
+        set comment Bosnia and Herzegovina
+    next
+    edit BB
+        set type geo
+        set country BB
+        set comment Barbados
+    next
+    edit BD
+        set type geo
+        set country BD
+        set comment Bangladesh
+    next
+    edit BE
+        set type geo
+        set country BE
+        set comment Belgium
+    next
+    edit BF
+        set type geo
+        set country BF
+        set comment Burkina Faso
+    next
+    edit BG
+        set type geo
+        set country BG
+        set comment Bulgaria
+    next
+    edit BH
+        set type geo
+        set country BH
+        set comment Bahrain
+    next
+    edit BI
+        set type geo
+        set country BI
+        set comment Burundi
+    next
+    edit BJ
+        set type geo
+        set country BJ
+        set comment Benin
+    next
+    edit BL
+        set type geo
+        set country BL
+        set comment Saint Bartelemey
+    next
+    edit BM
+        set type geo
+        set country BM
+        set comment Bermuda
+    next
+    edit BN
+        set type geo
+        set country BN
+        set comment Brunei Darussalam
+    next
+    edit BO
+        set type geo
+        set country BO
+        set comment Bolivia
+    next
+    edit BQ
+        set type geo
+        set country BQ
+        set comment Bonaire, Saint Eustatius and Saba
+    next
+    edit BR
+        set type geo
+        set country BR
+        set comment Brazil
+    next
+    edit BS
+        set type geo
+        set country BS
+        set comment Bahamas
+    next
+    edit BT
+        set type geo
+        set country BT
+        set comment Bhutan
+    next
+    edit BV
+        set type geo
+        set country BV
+        set comment Bouvet Island
+    next
+    edit BW
+        set type geo
+        set country BW
+        set comment Botswana
+    next
+    edit BY
+        set type geo
+        set country BY
+        set comment Belarus
+    next
+    edit BZ
+        set type geo
+        set country BZ
+        set comment Belize
+    next
+    edit CA
+        set type geo
+        set country CA
+        set comment Canada
+    next
+    edit CC
+        set type geo
+        set country CC
+        set comment Cocos (Keeling) Islands
+    next
+    edit CD
+        set type geo
+        set country CD
+        set comment Congo, The Democratic Republic of the
+    next
+    edit CF
+        set type geo
+        set country CF
+        set comment Central African Republic
+    next
+    edit CG
+        set type geo
+        set country CG
+        set comment Congo
+    next
+    edit CH
+        set type geo
+        set country CH
+        set comment Switzerland
+    next
+    edit CI
+        set type geo
+        set country CI
+        set comment Cote d'Ivoire
+    next
+    edit CK
+        set type geo
+        set country CK
+        set comment Cook Islands
+    next
+    edit CL
+        set type geo
+        set country CL
+        set comment Chile
+    next
+    edit CM
+        set type geo
+        set country CM
+        set comment Cameroon
+    next
+    edit CN
+        set type geo
+        set country CN
+        set comment China
+    next
+    edit CO
+        set type geo
+        set country CO
+        set comment Colombia
+    next
+    edit CR
+        set type geo
+        set country CR
+        set comment Costa Rica
+    next
+    edit CU
+        set type geo
+        set country CU
+        set comment Cuba
+    next
+    edit CV
+        set type geo
+        set country CV
+        set comment Cape Verde
+    next
+    edit CW
+        set type geo
+        set country CW
+        set comment Curacao
+    next
+    edit CX
+        set type geo
+        set country CX
+        set comment Christmas Island
+    next
+    edit CY
+        set type geo
+        set country CY
+        set comment Cyprus
+    next
+    edit CZ
+        set type geo
+        set country CZ
+        set comment Czech Republic
+    next
+    edit DE
+        set type geo
+        set country DE
+        set comment Germany
+    next
+    edit DJ
+        set type geo
+        set country DJ
+        set comment Djibouti
+    next
+    edit DK
+        set type geo
+        set country DK
+        set comment Denmark
+    next
+    edit DM
+        set type geo
+        set country DM
+        set comment Dominica
+    next
+    edit DO
+        set type geo
+        set country DO
+        set comment Dominican Republic
+    next
+    edit DZ
+        set type geo
+        set country DZ
+        set comment Algeria
+    next
+    edit EC
+        set type geo
+        set country EC
+        set comment Ecuador
+    next
+    edit EE
+        set type geo
+        set country EE
+        set comment Estonia
+    next
+    edit EG
+        set type geo
+        set country EG
+        set comment Egypt
+    next
+    edit EH
+        set type geo
+        set country EH
+        set comment Western Sahara
+    next
+    edit ER
+        set type geo
+        set country ER
+        set comment Eritrea
+    next
+    edit ES
+        set type geo
+        set country ES
+        set comment Spain
+    next
+    edit ET
+        set type geo
+        set country ET
+        set comment Ethiopia
+    next
+    edit FI
+        set type geo
+        set country FI
+        set comment Finland
+    next
+    edit FJ
+        set type geo
+        set country FJ
+        set comment Fiji
+    next
+    edit FK
+        set type geo
+        set country FK
+        set comment Falkland Islands (Malvinas)
+    next
+    edit FM
+        set type geo
+        set country FM
+        set comment Micronesia, Federated States of
+    next
+    edit FO
+        set type geo
+        set country FO
+        set comment Faroe Islands
+    next
+    edit FR
+        set type geo
+        set country FR
+        set comment France
+    next
+    edit GA
+        set type geo
+        set country GA
+        set comment Gabon
+    next
+    edit GB
+        set type geo
+        set country GB
+        set comment United Kingdom
+    next
+    edit GD
+        set type geo
+        set country GD
+        set comment Grenada
+    next
+    edit GE
+        set type geo
+        set country GE
+        set comment Georgia
+    next
+    edit GF
+        set type geo
+        set country GF
+        set comment French Guiana
+    next
+    edit GG
+        set type geo
+        set country GG
+        set comment Guernsey
+    next
+    edit GH
+        set type geo
+        set country GH
+        set comment Ghana
+    next
+    edit GI
+        set type geo
+        set country GI
+        set comment Gibraltar
+    next
+    edit GL
+        set type geo
+        set country GL
+        set comment Greenland
+    next
+    edit GM
+        set type geo
+        set country GM
+        set comment Gambia
+    next
+    edit GN
+        set type geo
+        set country GN
+        set comment Guinea
+    next
+    edit GP
+        set type geo
+        set country GP
+        set comment Guadeloupe
+    next
+    edit GQ
+        set type geo
+        set country GQ
+        set comment Equatorial Guinea
+    next
+    edit GR
+        set type geo
+        set country GR
+        set comment Greece
+    next
+    edit GS
+        set type geo
+        set country GS
+        set comment South Georgia and the South Sandwich Islands
+    next
+    edit GT
+        set type geo
+        set country GT
+        set comment Guatemala
+    next
+    edit GU
+        set type geo
+        set country GU
+        set comment Guam
+    next
+    edit GW
+        set type geo
+        set country GW
+        set comment Guinea-Bissau
+    next
+    edit GY
+        set type geo
+        set country GY
+        set comment Guyana
+    next
+    edit HK
+        set type geo
+        set country HK
+        set comment Hong Kong
+    next
+    edit HM
+        set type geo
+        set country HM
+        set comment Heard Island and McDonald Islands
+    next
+    edit HN
+        set type geo
+        set country HN
+        set comment Honduras
+    next
+    edit HR
+        set type geo
+        set country HR
+        set comment Croatia
+    next
+    edit HT
+        set type geo
+        set country HT
+        set comment Haiti
+    next
+    edit HU
+        set type geo
+        set country HU
+        set comment Hungary
+    next
+    edit ID
+        set type geo
+        set country ID
+        set comment Indonesia
+    next
+    edit IE
+        set type geo
+        set country IE
+        set comment Ireland
+    next
+    edit IL
+        set type geo
+        set country IL
+        set comment Israel
+    next
+    edit IM
+        set type geo
+        set country IM
+        set comment Isle of Man
+    next
+    edit IN
+        set type geo
+        set country IN
+        set comment India
+    next
+    edit IO
+        set type geo
+        set country IO
+        set comment British Indian Ocean Territory
+    next
+    edit IQ
+        set type geo
+        set country IQ
+        set comment Iraq
+    next
+    edit IR
+        set type geo
+        set country IR
+        set comment Iran, Islamic Republic of
+    next
+    edit IS
+        set type geo
+        set country IS
+        set comment Iceland
+    next
+    edit IT
+        set type geo
+        set country IT
+        set comment Italy
+    next
+    edit JE
+        set type geo
+        set country JE
+        set comment Jersey
+    next
+    edit JM
+        set type geo
+        set country JM
+        set comment Jamaica
+    next
+    edit JO
+        set type geo
+        set country JO
+        set comment Jordan
+    next
+    edit JP
+        set type geo
+        set country JP
+        set comment Japan
+    next
+    edit KE
+        set type geo
+        set country KE
+        set comment Kenya
+    next
+    edit KG
+        set type geo
+        set country KG
+        set comment Kyrgyzstan
+    next
+    edit KH
+        set type geo
+        set country KH
+        set comment Cambodia
+    next
+    edit KI
+        set type geo
+        set country KI
+        set comment Kiribati
+    next
+    edit KM
+        set type geo
+        set country KM
+        set comment Comoros
+    next
+    edit KN
+        set type geo
+        set country KN
+        set comment Saint Kitts and Nevis
+    next
+    edit KP
+        set type geo
+        set country KP
+        set comment Korea, Democratic People's Republic of
+    next
+    edit KR
+        set type geo
+        set country KR
+        set comment Korea, Republic of
+    next
+    edit KW
+        set type geo
+        set country KW
+        set comment Kuwait
+    next
+    edit KY
+        set type geo
+        set country KY
+        set comment Cayman Islands
+    next
+    edit KZ
+        set type geo
+        set country KZ
+        set comment Kazakhstan
+    next
+    edit LA
+        set type geo
+        set country LA
+        set comment Lao People's Democratic Republic
+    next
+    edit LB
+        set type geo
+        set country LB
+        set comment Lebanon
+    next
+    edit LC
+        set type geo
+        set country LC
+        set comment Saint Lucia
+    next
+    edit LI
+        set type geo
+        set country LI
+        set comment Liechtenstein
+    next
+    edit LK
+        set type geo
+        set country LK
+        set comment Sri Lanka
+    next
+    edit LR
+        set type geo
+        set country LR
+        set comment Liberia
+    next
+    edit LS
+        set type geo
+        set country LS
+        set comment Lesotho
+    next
+    edit LT
+        set type geo
+        set country LT
+        set comment Lithuania
+    next
+    edit LU
+        set type geo
+        set country LU
+        set comment Luxembourg
+    next
+    edit LV
+        set type geo
+        set country LV
+        set comment Latvia
+    next
+    edit LY
+        set type geo
+        set country LY
+        set comment Libyan Arab Jamahiriya
+    next
+    edit MA
+        set type geo
+        set country MA
+        set comment Morocco
+    next
+    edit MC
+        set type geo
+        set country MC
+        set comment Monaco
+    next
+    edit MD
+        set type geo
+        set country MD
+        set comment Moldova, Republic of
+    next
+    edit ME
+        set type geo
+        set country ME
+        set comment Montenegro
+    next
+    edit MF
+        set type geo
+        set country MF
+        set comment Saint Martin
+    next
+    edit MG
+        set type geo
+        set country MG
+        set comment Madagascar
+    next
+    edit MH
+        set type geo
+        set country MH
+        set comment Marshall Islands
+    next
+    edit MK
+        set type geo
+        set country MK
+        set comment Macedonia
+    next
+    edit ML
+        set type geo
+        set country ML
+        set comment Mali
+    next
+    edit MM
+        set type geo
+        set country MM
+        set comment Myanmar
+    next
+    edit MN
+        set type geo
+        set country MN
+        set comment Mongolia
+    next
+    edit MO
+        set type geo
+        set country MO
+        set comment Macao
+    next
+    edit MP
+        set type geo
+        set country MP
+        set comment Northern Mariana Islands
+    next
+    edit MQ
+        set type geo
+        set country MQ
+        set comment Martinique
+    next
+    edit MR
+        set type geo
+        set country MR
+        set comment Mauritania
+    next
+    edit MS
+        set type geo
+        set country MS
+        set comment Montserrat
+    next
+    edit MT
+        set type geo
+        set country MT
+        set comment Malta
+    next
+    edit MU
+        set type geo
+        set country MU
+        set comment Mauritius
+    next
+    edit MV
+        set type geo
+        set country MV
+        set comment Maldives
+    next
+    edit MW
+        set type geo
+        set country MW
+        set comment Malawi
+    next
+    edit MX
+        set type geo
+        set country MX
+        set comment Mexico
+    next
+    edit MY
+        set type geo
+        set country MY
+        set comment Malaysia
+    next
+    edit MZ
+        set type geo
+        set country MZ
+        set comment Mozambique
+    next
+    edit NA
+        set type geo
+        set country NA
+        set comment Namibia
+    next
+    edit NC
+        set type geo
+        set country NC
+        set comment New Caledonia
+    next
+    edit NE
+        set type geo
+        set country NE
+        set comment Niger
+    next
+    edit NF
+        set type geo
+        set country NF
+        set comment Norfolk Island
+    next
+    edit NG
+        set type geo
+        set country NG
+        set comment Nigeria
+    next
+    edit NI
+        set type geo
+        set country NI
+        set comment Nicaragua
+    next
+    edit NL
+        set type geo
+        set country NL
+        set comment Netherlands
+    next
+    edit NO
+        set type geo
+        set country NO
+        set comment Norway
+    next
+    edit NP
+        set type geo
+        set country NP
+        set comment Nepal
+    next
+    edit NR
+        set type geo
+        set country NR
+        set comment Nauru
+    next
+    edit NU
+        set type geo
+        set country NU
+        set comment Niue
+    next
+    edit NZ
+        set type geo
+        set country NZ
+        set comment New Zealand
+    next
+    edit OM
+        set type geo
+        set country OM
+        set comment Oman
+    next
+    edit PA
+        set type geo
+        set country PA
+        set comment Panama
+    next
+    edit PE
+        set type geo
+        set country PE
+        set comment Peru
+    next
+    edit PF
+        set type geo
+        set country PF
+        set comment French Polynesia
+    next
+    edit PG
+        set type geo
+        set country PG
+        set comment Papua New Guinea
+    next
+    edit PH
+        set type geo
+        set country PH
+        set comment Philippines
+    next
+    edit PK
+        set type geo
+        set country PK
+        set comment Pakistan
+    next
+    edit PL
+        set type geo
+        set country PL
+        set comment Poland
+    next
+    edit PM
+        set type geo
+        set country PM
+        set comment Saint Pierre and Miquelon
+    next
+    edit PN
+        set type geo
+        set country PN
+        set comment Pitcairn
+    next
+    edit PR
+        set type geo
+        set country PR
+        set comment Puerto Rico
+    next
+    edit PS
+        set type geo
+        set country PS
+        set comment Palestinian Territory
+    next
+    edit PT
+        set type geo
+        set country PT
+        set comment Portugal
+    next
+    edit PW
+        set type geo
+        set country PW
+        set comment Palau
+    next
+    edit PY
+        set type geo
+        set country PY
+        set comment Paraguay
+    next
+    edit QA
+        set type geo
+        set country QA
+        set comment Qatar
+    next
+    edit RE
+        set type geo
+        set country RE
+        set comment Reunion
+    next
+    edit RO
+        set type geo
+        set country RO
+        set comment Romania
+    next
+    edit RS
+        set type geo
+        set country RS
+        set comment Serbia
+    next
+    edit RU
+        set type geo
+        set country RU
+        set comment Russian Federation
+    next
+    edit RW
+        set type geo
+        set country RW
+        set comment Rwanda
+    next
+    edit SA
+        set type geo
+        set country SA
+        set comment Saudi Arabia
+    next
+    edit SB
+        set type geo
+        set country SB
+        set comment Solomon Islands
+    next
+    edit SC
+        set type geo
+        set country SC
+        set comment Seychelles
+    next
+    edit SD
+        set type geo
+        set country SD
+        set comment Sudan
+    next
+    edit SE
+        set type geo
+        set country SE
+        set comment Sweden
+    next
+    edit SG
+        set type geo
+        set country SG
+        set comment Singapore
+    next
+    edit SH
+        set type geo
+        set country SH
+        set comment Saint Helena
+    next
+    edit SI
+        set type geo
+        set country SI
+        set comment Slovenia
+    next
+    edit SJ
+        set type geo
+        set country SJ
+        set comment Svalbard and Jan Mayen
+    next
+    edit SK
+        set type geo
+        set country SK
+        set comment Slovakia
+    next
+    edit SL
+        set type geo
+        set country SL
+        set comment Sierra Leone
+    next
+    edit SM
+        set type geo
+        set country SM
+        set comment San Marino
+    next
+    edit SN
+        set type geo
+        set country SN
+        set comment Senegal
+    next
+    edit SO
+        set type geo
+        set country SO
+        set comment Somalia
+    next
+    edit SR
+        set type geo
+        set country SR
+        set comment Suriname
+    next
+    edit SS
+        set type geo
+        set country SS
+        set comment South Sudan
+    next
+    edit ST
+        set type geo
+        set country ST
+        set comment Sao Tome and Principe
+    next
+    edit SV
+        set type geo
+        set country SV
+        set comment El Salvador
+    next
+    edit SX
+        set type geo
+        set country SX
+        set comment Sint Maarten
+    next
+    edit SY
+        set type geo
+        set country SY
+        set comment Syrian Arab Republic
+    next
+    edit SZ
+        set type geo
+        set country SZ
+        set comment Swaziland
+    next
+    edit TC
+        set type geo
+        set country TC
+        set comment Turks and Caicos Islands
+    next
+    edit TD
+        set type geo
+        set country TD
+        set comment Chad
+    next
+    edit TF
+        set type geo
+        set country TF
+        set comment French Southern Territories
+    next
+    edit TG
+        set type geo
+        set country TG
+        set comment Togo
+    next
+    edit TH
+        set type geo
+        set country TH
+        set comment Thailand
+    next
+    edit TJ
+        set type geo
+        set country TJ
+        set comment Tajikistan
+    next
+    edit TK
+        set type geo
+        set country TK
+        set comment Tokelau
+    next
+    edit TL
+        set type geo
+        set country TL
+        set comment Timor-Leste
+    next
+    edit TM
+        set type geo
+        set country TM
+        set comment Turkmenistan
+    next
+    edit TN
+        set type geo
+        set country TN
+        set comment Tunisia
+    next
+    edit TO
+        set type geo
+        set country TO
+        set comment Tonga
+    next
+    edit TR
+        set type geo
+        set country TR
+        set comment Turkey
+    next
+    edit TT
+        set type geo
+        set country TT
+        set comment Trinidad and Tobago
+    next
+    edit TV
+        set type geo
+        set country TV
+        set comment Tuvalu
+    next
+    edit TW
+        set type geo
+        set country TW
+        set comment Taiwan
+    next
+    edit TZ
+        set type geo
+        set country TZ
+        set comment Tanzania, United Republic of
+    next
+    edit UA
+        set type geo
+        set country UA
+        set comment Ukraine
+    next
+    edit UG
+        set type geo
+        set country UG
+        set comment Uganda
+    next
+    edit UM
+        set type geo
+        set country UM
+        set comment United States Minor Outlying Islands
+    next
+    edit US
+        set type geo
+        set country US
+        set comment United States
+    next
+    edit UY
+        set type geo
+        set country UY
+        set comment Uruguay
+    next
+    edit UZ
+        set type geo
+        set country UZ
+        set comment Uzbekistan
+    next
+    edit VA
+        set type geo
+        set country VA
+        set comment Holy See (Vatican City State)
+    next
+    edit VC
+        set type geo
+        set country VC
+        set comment Saint Vincent and the Grenadines
+    next
+    edit VE
+        set type geo
+        set country VE
+        set comment Venezuela
+    next
+    edit VG
+        set type geo
+        set country VG
+        set comment Virgin Islands, British
+    next
+    edit VI
+        set type geo
+        set country VI
+        set comment Virgin Islands, U.S.
+    next
+    edit VN
+        set type geo
+        set country VN
+        set comment Vietnam
+    next
+    edit VU
+        set type geo
+        set country VU
+        set comment Vanuatu
+    next
+    edit WF
+        set type geo
+        set country WF
+        set comment Wallis and Futuna
+    next
+    edit WS
+        set type geo
+        set country WS
+        set comment Samoa
+    next
+    edit XK
+        set type geo
+        set country XK
+        set comment Kosovo
+    next
+    edit YE
+        set type geo
+        set country YE
+        set comment Yemen
+    next
+    edit YT
+        set type geo
+        set country YT
+        set comment Mayotte
+    next
+    edit ZA
+        set type geo
+        set country ZA
+        set comment South Africa
+    next
+    edit ZM
+        set type geo
+        set country ZM
+        set comment Zambia
+    next
+    edit ZW
+        set type geo
+        set country ZW
+        set comment Zimbabwe
+    next
+end
