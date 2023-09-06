@@ -636,7 +636,7 @@ config firewall address
     edit LA
         set type geo
         set country LA
-        set comment 'Lao People's Democratic Republic'
+        set comment 'Lao Peoples Democratic Republic'
     next
     edit LB
         set type geo
